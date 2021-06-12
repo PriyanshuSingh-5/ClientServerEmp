@@ -1,0 +1,29 @@
+{
+  "EmployeePayrollDB": [
+    {
+      "_name": "Omprakash",
+      "_profilePic": "../assets/profile-images/Ellipse -3.png",
+      "_gender": "Male",
+      "_department": [
+        "HR",
+        "Finance"
+      ],
+      "_salary": "97400",
+      "_note": "Omprakash",
+      "_startDate": "8 June 2021",
+      "id": 1
+    },
+    {
+      "_name": "Priyanshu",
+      "_profilePic": "../assets/profile-images/Ellipse 1.png",
+      "_gender": "Female",
+      "_department": [
+        "Engineer"
+      ],
+      "_salary": "40000",
+      "_note": "hii",
+      "_startDate": "21 October 2019",
+      "id": 2
+    }
+  ]
+}
